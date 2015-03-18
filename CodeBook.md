@@ -33,11 +33,11 @@
 
 *full_df
 
-## 2 - Extracts only the measurements on the mean and standard deviation for each measurement. 
+## Extracts only the measurements on the mean and standard deviation for each measurement. 
 *ext_feat
 *Mean_Std
  
-## From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+## Independent tidy data set with the average of each variable for each activity and each subject.
 *tidy_data
 *tidy_data_avg
 
